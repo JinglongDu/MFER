@@ -1,3 +1,4 @@
+# The original 3D model requires huge graphics memory and cannot be trained, so we reduced the network depth while ensuring that the model remains unchanged.
 import torch
 import torch.nn as nn
 class LSRN(nn.Module):
