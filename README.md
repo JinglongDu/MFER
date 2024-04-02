@@ -5,12 +5,11 @@ Due to the storage limitation of GitHub, we did not upload the super-resolution 
 
 # Datasets
 Kirby21: https://www.nitrc.org/projects/multimodal
-BraTS2015: https://www.virtualskeleton.ch/BRATS/Start2015#download
-
+BraTS2015: https://www.virtualskeleton.ch/BRATS/Start2015#download  
 
 @article{li2024multi,
-  title={Multi-level feature extraction and reconstruction for 3D MRI image super-resolution},
-  author={Li, Hongbi and Jia, Yuanyuan and Zhu, Huazheng and Han, Baoru and Du, Jinglong and Liu, Yanbing},
+  title={Multi-level feature extraction and reconstruction for 3D MRI image super-resolution},  
+  author={Li, Hongbi and Jia, Yuanyuan and Zhu, Huazheng and Han, Baoru and Du, Jinglong and Liu, Yanbing},  
   journal={Computers in Biology and Medicine},
   pages={108151},
   year={2024},
