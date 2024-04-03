@@ -2,11 +2,6 @@
 The networks used in "Multi-level Feature Extraction and Reconstruction for 3D MRI Image Super-Resolution".
 
 Due to the storage limitation of GitHub, we did not upload the super-resolution reconstructed images. If you are conducting similar research and wish to compare our method, please don't hesitate to contact us (jldu@cqu.edu.cn). 
-
-# Datasets
-- Kirby21: https://www.nitrc.org/projects/multimodal
-- BraTS2015: https://www.virtualskeleton.ch/BRATS/Start2015#download 
-
 ```
 @article{li2024multi,  
     title={Multi-level feature extraction and reconstruction for 3D MRI image super-resolution},  
@@ -17,6 +12,12 @@ Due to the storage limitation of GitHub, we did not upload the super-resolution 
     publisher={Elsevier}  
 }
 ```
+
+# Datasets
+- Kirby21: https://www.nitrc.org/projects/multimodal
+- BraTS2015: https://www.virtualskeleton.ch/BRATS/Start2015#download 
+
+
 
 # Our previous works
 We have done some work on using different convolution operations to extract various image features for MRI image super-resolution reconstruction, and the foundation of MFER comes from our previous works:
