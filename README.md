@@ -19,6 +19,7 @@ BraTS2015: https://www.virtualskeleton.ch/BRATS/Start2015#download
 
 We have done some work on using different convolution operations to extract various image features for MRI image super-resolution reconstruction, and the foundation of this work comes from our previous conference paper:
 
+```
 @inproceedings{wang2019brain,  
     title={Brain MRI Super-resolution Reconstruction using a Multi-level and Parallel Conv-Deconv Network},  
     author={Wang, Lulu and Du, Jinglong and Gholipour, Ali and He, Zhongshi and Jia, Yuanyuan},  
@@ -27,3 +28,4 @@ We have done some work on using different convolution operations to extract vari
     year={2019},  
     organization={IEEE}  
 }
+```
