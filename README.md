@@ -18,6 +18,7 @@ BraTS2015: https://www.virtualskeleton.ch/BRATS/Start2015#download
 }
 ```
 
+# Our previous works
 We have done some work on using different convolution operations to extract various image features for MRI image super-resolution reconstruction, and the foundation of MFER comes from our previous works:
 
 ```
