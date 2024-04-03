@@ -4,8 +4,8 @@ The networks used in "Multi-level Feature Extraction and Reconstruction for 3D M
 Due to the storage limitation of GitHub, we did not upload the super-resolution reconstructed images. If you are conducting similar research and wish to compare our method, please don't hesitate to contact us (jldu@cqu.edu.cn). 
 
 # Datasets
-Kirby21: https://www.nitrc.org/projects/multimodal
-BraTS2015: https://www.virtualskeleton.ch/BRATS/Start2015#download 
+- Kirby21: https://www.nitrc.org/projects/multimodal
+- BraTS2015: https://www.virtualskeleton.ch/BRATS/Start2015#download 
 
 ```
 @article{li2024multi,  
