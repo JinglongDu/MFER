@@ -18,7 +18,7 @@ BraTS2015: https://www.virtualskeleton.ch/BRATS/Start2015#download
 }
 ```
 
-We have done some work on using different convolution operations to extract various image features for MRI image super-resolution reconstruction, and the foundation of this work comes from our previous conference paper:
+We have done some work on using different convolution operations to extract various image features for MRI image super-resolution reconstruction, and the foundation of MFER comes from our previous works:
 
 ```
 @inproceedings{wang2019brain,  
@@ -28,5 +28,15 @@ We have done some work on using different convolution operations to extract vari
     pages={885--891},  
     year={2019},  
     organization={IEEE}  
+}
+```
+```
+@inproceedings{du2018accelerated,
+  title={Accelerated super-resolution MR image reconstruction via a 3D densely connected deep convolutional neural network},
+  author={Du, Jinglong and Wang, Lulu and Gholipour, Ali and He, Zhongshi and Jia, Yuanyuan},
+  booktitle={2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  pages={349--355},
+  year={2018},
+  organization={IEEE}
 }
 ```
